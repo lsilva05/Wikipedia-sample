@@ -1,10 +1,23 @@
-header{
-	background: red;
+/*Color palette
+
+1- CBD5BD - pastel green
+2- 3C2E2D - dark brown
+3 - FF849E - pink, accent
+
+*/
+
+
+
+body {
+	background: url("../img/bg.png");
+	font-family: 'Allerta', sans-serif;
 }
 
-nav{
-	background: green;
+h1{
+	color: #CBD5BD;
+	
 }
+
 
 
 
